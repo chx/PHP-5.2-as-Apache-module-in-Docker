@@ -1,0 +1,2 @@
+deb     http://mirror.hetzner.de/debian/packages wheezy main
+deb     http://mirror.hetzner.de/debian/security wheezy/updates main
